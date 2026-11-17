@@ -1,0 +1,6 @@
+streamlit==1.66.0
+numpy==2.5.4
+pandas==3.0.6
+plotly==7.1.0
+trimesh==5.1.1
+cadquery==2.8.0
