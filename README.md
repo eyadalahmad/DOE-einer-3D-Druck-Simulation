@@ -110,7 +110,7 @@ Das Projekt über GitLab klonen:
 
 ```bash
 git clone https://git.i.hawk.de/eyad.alahmad/doe-einer-3d-druck-simulation.git
-cd Qualitaetsmanagement_3D_Druck
+cd DOE einer 3D-Druck Simulation
 ```
 
 Alternativ kann das Projekt als ZIP-Datei heruntergeladen und entpackt werden.
@@ -159,7 +159,7 @@ Im Terminal `Ctrl + C` drücken.
 **Anwendung später erneut starten**
 
 ```bash
-cd Qualitaetsmanagement_3D_Druck
+cd DOE einer 3D-Druck Simulation
 source .venv/bin/activate
 streamlit run app.py
 ```
